@@ -20,7 +20,7 @@ export default function Content() {
 							url={"/test"}
 						/>
 					</div>
-					<div className=" col-4 mx-5">
+					<div className=" col-4 mx-4">
 						<Card
 							title="Initiate Exit"
 							icon={<RxExit />}
@@ -36,7 +36,7 @@ export default function Content() {
 							url={"/test"}
 						/>
 					</div>
-					<div className=" col-4 mx-5">
+					<div className=" col-4 mx-4">
 						<Card
 							title="Exit DocuSign"
 							icon={<MdOutlineWorkHistory />}
@@ -52,7 +52,7 @@ export default function Content() {
 							url={"/test"}
 						/>
 					</div>
-					<div className=" col-4 mx-5">
+					<div className=" col-4 mx-4">
 						<Card
 							title="Last Working Date"
 							icon={<BsFillCalendarDayFill />}
